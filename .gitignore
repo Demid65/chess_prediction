@@ -1,0 +1,5 @@
+
+*.db
+*.pt
+*.csv
+notebooks/.ipynb_checkpoints/
